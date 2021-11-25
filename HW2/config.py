@@ -184,7 +184,7 @@ seed = 19
 
 dist_params = dict(backend='nccl')
 log_level = 'DEBUG'
-load_from = 'checkpoints/mask_rcnn.pth'
+load_from = 'checkpoints/faster_rcnn.pth'
 resume_from = None
 work_dir = './tutorial_exps'
 workflow = [('train', 1)]
