@@ -1,0 +1,6 @@
+matplotlib==3.5.1
+model==0.6.0
+Pillow==9.0.0
+tensorflow==2.7.0
+train==0.0.5
+utils==1.0.1
